@@ -1,5 +1,5 @@
 ![Banner](banner.svg)
- 👾 https://kailutz.github.io/Portifolio/?v
+ 🐍 https://kailutz.github.io/Portifolio/?v
 
 <!--
 **Kailutz/Kailutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
