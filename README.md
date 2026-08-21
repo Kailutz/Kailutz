@@ -1,5 +1,10 @@
-![Banner](banner.svg)
- 🐍 https://kailutz.github.io/Portifolio/?v
+<a href="https://kailutz.github.io/Portifolio/">
+  <img src="./banner-kp.svg" width="100%" alt="Banner KP — Portfólio de Kaiqui">
+</a>
+
+<p align="center">
+  <a href="https://kailutz.github.io/Portifolio/"><strong>Conheça meu portfólio ↗</strong></a>
+</p>
 
 <!--
 **Kailutz/Kailutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
